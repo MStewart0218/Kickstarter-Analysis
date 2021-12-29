@@ -16,12 +16,4 @@
 ## Documents:
 
 #### Outcomes Based on Launch Date- 
-![Outcomes_Based_on_lauch_Date]("C:\Users\Marga\OneDrive\Desktop\Data Certification\Module 1\Analysis Projects\Outcomes_Based_on_Launch_Date.png")
-
-![Parent_Category_Outcomes_US]("C:\Users\Marga\OneDrive\Desktop\Data Certification\Module 1\Analysis Projects\Parent_Category_Outcomes_US.png")
-
-![Parent_Category_Outcomes_Theater]("C:\Users\Marga\OneDrive\Desktop\Data Certification\Module 1\Analysis Projects\Parent_Category_Outcomes_Theater.png")
-
-![Subcategory_Outcomes_US]("C:\Users\Marga\OneDrive\Desktop\Data Certification\Module 1\Analysis Projects\Subcategory_Outcomes_US.png")
-
-![Subcategory Outcomes_Plays]("C:\Users\Marga\OneDrive\Desktop\Data Certification\Module 1\Analysis Projects\Subcategory Outcomes_Plays.png"
+[Play Outcomes vs Goal](https://user-images.githubusercontent.com/95396477/147617018-8f99a447-4b82-49ef-8ed4-74864431ec5b.png)
