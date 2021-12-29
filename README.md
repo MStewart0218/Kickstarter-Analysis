@@ -15,6 +15,6 @@
 
 ## Documents:
 
-[Theater Outcomes vs Launch Date](https://github.com/MStewart0218/Kickstarter-Analysis/issues/2)
+1. [Theater Outcomes vs Launch Date](https://user-images.githubusercontent.com/95396477/147617173-832dbcfe-127a-4fed-a63c-d9a4f0a3a4c8.png)
 
-[Play Outcomes vs Goal](https://user-images.githubusercontent.com/95396477/147617018-8f99a447-4b82-49ef-8ed4-74864431ec5b.png)
+2. [Play Outcomes vs Goal](https://user-images.githubusercontent.com/95396477/147617018-8f99a447-4b82-49ef-8ed4-74864431ec5b.png)
