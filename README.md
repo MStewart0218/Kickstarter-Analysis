@@ -33,8 +33,10 @@ The analysis was performed by creating pivot tables and charts: Theater Outcomes
 1. `Kickstarter Challenge Workbook` 
     [Kickstarter_Challenge.xslx](https://github.com/MStewart0218/Kickstarter-Analysis/files/7786949/Kickstarter_Challenge.xlsx)
  
-2. `Theater Outcomes vs Launch Date`
+2. `Theater Outcomes vs Launch Date Line Chart`
     [Theater_Outcomes_vs_Launch.png](https://user-images.githubusercontent.com/95396477/147617173-832dbcfe-127a-4fed-a63c-d9a4f0a3a4c8.png)
+    
+    **Pivot Table Criteria**
     
     | Pivot Field | Criteria|
     | ------:| -----------:|
@@ -43,7 +45,9 @@ The analysis was performed by creating pivot tables and charts: Theater Outcomes
     | Rows| Date Created Conversion|
     | Values| Count of Outcomes|
 
-3. `Play Outcomes vs Goal` 
+3. `Play Outcomes vs Goal Line Chart` 
     [Play_Outcomes_vs_Goal.png](https://user-images.githubusercontent.com/95396477/147617018-8f99a447-4b82-49ef-8ed4-74864431ec5b.png)
+    
+    **Outcomes Based on Goals Data Set**
     
     ![image](https://user-images.githubusercontent.com/95396477/147625927-4172ba27-63b5-4811-ad37-cbe8de524099.png)
