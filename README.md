@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 
-## Overview of Project:
+> ## Overview of Project:
 
 The purpose of this analysis is to show the outcomes of Kickstarter campaigns in relation to their launch dates and funding goals.
 
