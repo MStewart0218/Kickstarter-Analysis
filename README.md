@@ -1,5 +1,4 @@
 # An Analysis of Kickstarter Campaigns
-#### Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project:
 
@@ -30,6 +29,8 @@ The analysis was performed by creating pivot tables and charts: Theater Outcomes
 
 ## Charts:
 
-1. `Theater Outcomes vs Launch Date`(https://user-images.githubusercontent.com/95396477/147617173-832dbcfe-127a-4fed-a63c-d9a4f0a3a4c8.png)
+1. `Theater Outcomes vs Launch Date`
+    [Theater Outcomes vs Launch Date](https://user-images.githubusercontent.com/95396477/147617173-832dbcfe-127a-4fed-a63c-d9a4f0a3a4c8.png)
 
-2. [Play Outcomes vs Goal](https://user-images.githubusercontent.com/95396477/147617018-8f99a447-4b82-49ef-8ed4-74864431ec5b.png)
+2. `Play Outcomes vs Goal` 
+    [Play Outcomes vs Goal](https://user-images.githubusercontent.com/95396477/147617018-8f99a447-4b82-49ef-8ed4-74864431ec5b.png)
