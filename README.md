@@ -15,5 +15,5 @@
 
 ## Documents:
 
-#### Outcomes Based on Launch Date- 
+[Theater Outcomes vs Launch Date](https://github.com/MStewart0218/Kickstarter-Analysis/issues/2)
 [Play Outcomes vs Goal](https://user-images.githubusercontent.com/95396477/147617018-8f99a447-4b82-49ef-8ed4-74864431ec5b.png)
