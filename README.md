@@ -5,7 +5,7 @@
 
 ## Analysis:
 
-The analysis was performed by creating pivot tables and charts: Theater Outcomes vs Launch Date and Outcomes Based on Goal. The Theater Outcomes vs launch Date chart highlights month-to-month outcomes for parent category “Theater” compared to the launch date. The data set in the Outcomes Based on Goal(s) table and chart drills down the data to subcategory “Plays” and shows the count and percentage of successful, failed, and canceled campaigns based on goal ranges.
+The analysis was performed by creating pivot tables and charts: "Theater Outcomes by Launch Date" and "Outcomes Based on Goal". The Theater Outcomes vs launch Date chart highlights month-to-month outcomes for parent category “Theater” compared to the launch date. The data set in the Outcomes Based on Goal(s) table and chart drills down the data to subcategory “Plays” and shows the count and percentage of successful, failed, and canceled campaigns based on goal ranges.
 
 ## Results:
 
