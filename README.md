@@ -17,7 +17,7 @@ The analysis was performed by creating pivot tables and charts: Theater Outcomes
 
 #### What can you conclude about the Outcomes based on Goals?
     1. Goal 1000 to 4999 account for the majority of ‘Number Successful’ and ‘Number Failed’.
-    2. The highest percentage of ‘Percentage Successful’ campaigns have a goal less than 1000, while the highest percentage of ‘Percentage Failed’ campaigns have a goal greater than 50000. Campaign goals less than 1000 are more successful that goals greater than 50000.
+    2. The highest percentage of ‘Percentage Successful’ campaigns have a goal less than 1000, while the highest percentage of ‘Percentage Failed’ campaigns have a goal greater than 50000. Campaign goals less than 1000 are more successful thaan goals greater than 50000.
 
 #### What are some limitations of this dataset?
     1. Data limitations are reflected in the Canceled Plays- Outcomes Based on Goal data since there are no canceled campaigns that met any of the goal ranges. 
@@ -35,6 +35,15 @@ The analysis was performed by creating pivot tables and charts: Theater Outcomes
  
 2. `Theater Outcomes vs Launch Date`
     [Theater Outcomes vs Launch Date](https://user-images.githubusercontent.com/95396477/147617173-832dbcfe-127a-4fed-a63c-d9a4f0a3a4c8.png)
+    
+    | Pivot Field | Criteria|
+    | ------:| -----------:|
+    | Filters | Parent Category & Years
+    | Columns | Outcomes |
+    | Rows| Date Created Conversion|
+    | Values| Count of Outcomes|
 
 3. `Play Outcomes vs Goal` 
     [Play Outcomes vs Goal](https://user-images.githubusercontent.com/95396477/147617018-8f99a447-4b82-49ef-8ed4-74864431ec5b.png)
+    
+    ![image](https://user-images.githubusercontent.com/95396477/147625927-4172ba27-63b5-4811-ad37-cbe8de524099.png)
