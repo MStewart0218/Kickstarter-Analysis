@@ -7,7 +7,7 @@ The purpose of this analysis is to show the outcomes of Kickstarter campaigns in
 
 ## Analysis:
 
-The analysis was performed by creating a pivot table and pivot chart to capture month-to-month outcomes for parent category “Theater” compared to the launch date. The data set in the “Outcomes Based on Goal(s)” table and chart drilldown the data to the subcategory “Plays” and show the count and percentage of successful, failed, and canceled campaigns based on goal ranges.
+The analysis was performed by creating pivot tables and charts: Theater Outcomes vs Launch Date and Outcomes Based on Goal. The Theater Outcomes vs launch Date chart highlights month-to-month outcomes for parent category “Theater” compared to the launch date. The data set in the Outcomes Based on Goal(s) table and chart drills down the data to subcategory “Plays” and shows the count and percentage of successful, failed, and canceled campaigns based on goal ranges.
 
 ## Results:
 
@@ -22,7 +22,7 @@ The analysis was performed by creating a pivot table and pivot chart to capture 
 
 #### What are some limitations of this dataset?
     1. Data limitations are reflected in the Canceled Plays- Outcomes Based on Goal data since there are no canceled campaigns that met any of the goal ranges. 
-    2. Data is also not drilled down to “US” only campaigns and could limit the overall assessment by not providing a clear analysis of the US theater and play data.
+    2. Data is also not drilled down to “US” only campaigns and could limit the overall assessment by not providing a clear analysis of the US theater and play campaign demographic.
 
 #### What are some other possible tables and/or graphs that we could create?
     1. We could create a statistical table to show the Goal outcomes for “successful”, “failed”, and canceled” for parent category “Theater” or subcategory “Plays”. The table would show the Mean, Median, Standard Deviation, Upper Quartile, Lower Quartile, IQR, Q1 Boundary, and Q3 Boundary.
