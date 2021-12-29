@@ -13,7 +13,7 @@ The analysis was performed by creating pivot tables and charts: Theater Outcomes
 #### What are two conclusions you can draw about the Theater Outcomes by Launch Date?
     1. The “Theater Outcomes by Launch Date” pivot line chart visualizes successful, failed, and canceled outcome, consequently showing the majority of successful and failed outcomes in May and June.
     2. The ideal period to launch a successful Kickstarted campaign is between April and August.
-    3. The Mode = 3 for the Canceled Theater Outcomes by Launch Date and show 5 out of 12 months (Feb, Mar, May, Nov, Dec) campaigns were canceled in Parent Category “Theater”.
+    
 
 #### What can you conclude about the Outcomes based on Goals?
     1. Goal 1000 to 4999 account for the majority of ‘Number Successful’ and ‘Number Failed’.
@@ -22,6 +22,7 @@ The analysis was performed by creating pivot tables and charts: Theater Outcomes
 #### What are some limitations of this dataset?
     1. Data limitations are reflected in the Canceled Plays- Outcomes Based on Goal data since there are no canceled campaigns that met any of the goal ranges. 
     2. Data is also not drilled down to “US” only campaigns and could limit the overall assessment by not providing a clear analysis of the US theater and play campaign demographic.
+    3. The Mode = 3 for the Canceled Theater Outcomes by Launch Date and show 5 out of 12 months (Feb, Mar, May, Nov, Dec) campaigns were canceled in Parent Category “Theater”. Other contributing factors may have played a role in why plays were cancelled (i.e. region, weather, etc). This is not visible within the dataset.
 
 #### What are some other possible tables and/or graphs that we could create?
     1. We could create a statistical table to show the Goal outcomes for “successful”, “failed”, and canceled” for parent category “Theater” or subcategory “Plays”. The table would show the Mean, Median, Standard Deviation, Upper Quartile, Lower Quartile, IQR, Q1 Boundary, and Q3 Boundary.
